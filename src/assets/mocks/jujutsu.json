@@ -1,0 +1,427 @@
+{
+  "characters": [
+    {
+      "id": "129913ac-0122-4b20-8d08-89fe56b72df1",
+      "name": "Yuji Itadori",
+      "description": "The main protagonist of Jujutsu Kaisen. A high school student who becomes the host of Sukuna, the King of Curses, after swallowing one of his fingers. Yuji is known for his physical strength and determination to save people.",
+      "abilities": [
+        "Superhuman strength",
+        "Enhanced agility",
+        "Increased endurance",
+        "Ability to use cursed energy techniques"
+      ],
+      "domainExpansion": "Yuji does not have his own domain expansion, but can use Sukuna's when he takes control.",
+      "image": "../images/wizzards/Yuji_Itadori_-_Anime.jpg"
+    },
+    {
+      "id": "a8faeace-763b-4b15-b17e-399424e56907",
+      "name": "Megumi Fushiguro",
+      "description": "A first-year student at Tokyo Metropolitan Magic Technical College. Megumi is one of the main characters and a friend of Yuji. He is known for his ability to summon shadows and his potential as a sorcerer.",
+      "abilities": [
+        "Shadow summoning",
+        "Shadow techniques",
+        "Ability to create shadow domains"
+      ],
+      "domainExpansion": "Chains of the Cursed Womb",
+      "image": "../images/wizzards/Megumi_Fushiguro_-_Anime.jpg"
+    },
+    {
+      "id": "e5fa91d4-98d6-4038-b72c-32e07ab48681",
+      "name": "Satoru Gojo",
+      "description": "A special grade sorcerer and teacher of Yuji and Megumi. Gojo is known as the strongest sorcerer and is extremely powerful. He has an eccentric personality and is highly respected in the world of sorcery.",
+      "abilities": [
+        "Infinite Void",
+        "Blue cursed energy techniques",
+        "Superhuman speed and reflexes"
+      ],
+      "domainExpansion": "Unlimited Void",
+      "image": "../images/wizzards/Satoru_Gojo_-_Anime.jpg"
+    },
+    {
+      "id": "e052ed1a-5e58-473f-b99a-8c852c4cd847",
+      "name": "Nobara Kugisaki",
+      "description": "A first-year student at Tokyo Metropolitan Magic Technical College. Nobara is a sorceress who uses a hammer and nails imbued with cursed energy. She is known for her energetic personality and combat skills.",
+      "abilities": [
+        "Use of cursed hammer and nails",
+        "Cursed energy techniques",
+        "Enhanced resistance and agility"
+      ],
+      "domainExpansion": "Nobara does not have a known domain expansion.",
+      "image": "../images/wizzards/Nobara_Kugisaki_-_Anime.jpg"
+    },
+    {
+      "id": "afd3387b-34dc-4a4f-9836-b57855cacfa1",
+      "name": "Todo Aoi",
+      "description": "A second-year student at Kyoto Metropolitan Magic Technical College. Todo is known for his powerful swordsmanship and his ability to use cursed energy techniques.",
+      "abilities": [
+        "Swordsmanship",
+        "Cursed energy techniques",
+        "Enhanced speed and agility"
+      ],
+      "domainExpansion": "Boogie Woogie",
+      "image": "../images/wizzards/Aoi_Todo_-_Anime.jpg"
+    },
+    {
+      "id": "84499c84-fa8b-404a-a72a-63e2294eca93",
+      "name": "Atsuya Kusakabe",
+      "description": "A second-year student at Kyoto Metropolitan Magic Technical College. Atsuya is known for his ability to manipulate water and his calm demeanor.",
+      "abilities": [
+        "Water manipulation",
+        "Cursed energy techniques",
+        "Enhanced resistance"
+      ],
+      "domainExpansion": "Atsuya does not have a known domain expansion.",
+      "image": "../images/wizzards/Atsuya_Kusakabe_-_Manga.jpg"
+    },
+    {
+      "id": "5c05e84d-6f70-43e9-a634-a777b6b297cb",
+      "name": "Kasumi Miwa",
+      "description": "A second-year student at Kyoto Metropolitan Magic Technical College. Kasumi is known for her ability to use cursed energy techniques and her supportive role in battles.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Supportive abilities",
+        "Enhanced agility"
+      ],
+      "domainExpansion": "Kasumi does not have a known domain expansion.",
+      "image": "../images/wizzards/Kasumi_Miwa_-_Anime.jpg"
+    },
+    {
+      "id": "e0b5f77c-9787-4266-bd1e-30e8d1048d00",
+      "name": "Kento Nanami",
+      "description": "A first-grade sorcerer and former teacher at Tokyo Metropolitan Magic Technical College. Kento is known for his ability to use cursed energy techniques and his strategic mind.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Strategic planning",
+        "Enhanced endurance"
+      ],
+      "domainExpansion": "Kento does not have a known domain expansion.",
+      "image": "../images/wizzards/Kento_Nanami_-_Anime.jpg"
+    },
+    {
+      "id": "7d301593-cd13-4401-b229-95e754364aaa",
+      "name": "Mai Zenin",
+      "description": "A second-year student at Kyoto Metropolitan Magic Technical College. Mai is known for her ability to use cursed energy techniques and her calm demeanor.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Enhanced agility",
+        "Supportive abilities"
+      ],
+      "domainExpansion": "Mai does not have a known domain expansion.",
+      "image": "../images/wizzards/Mai_Zenin_-_Anime.jpg"
+    },
+    {
+      "id": "f681aeb4-b760-43f3-81ce-6d76fd1f56d2",
+      "name": "Maki Zenin",
+      "description": "A second-year student at Kyoto Metropolitan Magic Technical College. Maki is known for her physical strength and her ability to use cursed energy techniques.",
+      "abilities": [
+        "Physical strength",
+        "Cursed energy techniques",
+        "Enhanced endurance"
+      ],
+      "domainExpansion": "Maki does not have a known domain expansion.",
+      "image": "../images/wizzards/Maki_Zenin_-_Anime.jpg"
+    },
+    {
+      "id": "840abc02-924f-4771-b020-0a12efdfc7d4",
+      "name": "Masamichi Yaga",
+      "description": "The principal of Tokyo Metropolitan Magic Technical College. Masamichi is known for his ability to use cursed energy techniques and his leadership skills.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Leadership skills",
+        "Enhanced endurance"
+      ],
+      "domainExpansion": "Masamichi does not have a known domain expansion.",
+      "image": "../images/wizzards/Masamichi_Yaga_-_Anime.jpg"
+    },
+    {
+      "id": "4ece59d5-9f99-435b-ab07-af7244e14808",
+      "name": "Mechamaru Ultimate",
+      "description": "A cursed corpse controlled by Kokichi Muta. Mechamaru is known for his ability to use cursed energy techniques and his enhanced physical abilities.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Enhanced physical abilities",
+        "Enhanced endurance"
+      ],
+      "domainExpansion": "Mechamaru does not have a known domain expansion.",
+      "image": "../images/wizzards/Mechamaru_-_Anime.jpg"
+    },
+    {
+      "id": "19e3f32d-4594-4977-b2bf-668289baa9c5",
+      "name": "Mei Mei",
+      "description": "A special grade sorcerer and the leader of the Zenin family. Mei Mei is known for her ability to use cursed energy techniques and her leadership skills.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Leadership skills",
+        "Enhanced endurance"
+      ],
+      "domainExpansion": "Mei Mei does not have a known domain expansion.",
+      "image": "../images/wizzards/Mei_Mei_-_Anime_perfil.jpg"
+    },
+    {
+      "id": "73cc2839-b5b6-4d85-a6d5-a1268401a8a6",
+      "name": "Momo Nishimiya",
+      "description": "A second-year student at Kyoto Metropolitan Magic Technical College. Momo is known for her ability to use cursed energy techniques and her supportive role in battles.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Supportive abilities",
+        "Enhanced agility"
+      ],
+      "domainExpansion": "Momo does not have a known domain expansion.",
+      "image": "../images/wizzards/Momo_Nishimiya_-_Anime.jpg"
+    },
+    {
+      "id": "12f58c3b-dc2a-4a49-80b0-277b00c2287d",
+      "name": "Naobito Zenin",
+      "description": "The former head of the Zenin family. Naobito is known for his ability to use cursed energy techniques and his leadership skills.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Leadership skills",
+        "Enhanced endurance"
+      ],
+      "domainExpansion": "Naobito does not have a known domain expansion.",
+      "image": "../images/wizzards/Naobito_Zenin_-_Anime.jpg"
+    },
+    {
+      "id": "128296f4-f602-4315-8c89-27c1a54e9e62",
+      "name": "Noritoshi Kamo",
+      "description": "A second-year student at Kyoto Metropolitan Magic Technical College. Noritoshi is known for his ability to use cursed energy techniques and his strategic mind.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Strategic planning",
+        "Enhanced agility"
+      ],
+      "domainExpansion": "Noritoshi does not have a known domain expansion.",
+      "image": "../images/wizzards/Noritoshi_Kamo_-_Anime.jpg"
+    },
+    {
+      "id": "4782c6b7-70ae-417e-b408-ad34f1266b49",
+      "name": "Panda",
+      "description": "A cursed corpse with the appearance of a panda. Panda is known for his physical strength and his ability to use cursed energy techniques.",
+      "abilities": [
+        "Physical strength",
+        "Cursed energy techniques",
+        "Enhanced endurance"
+      ],
+      "domainExpansion": "Panda does not have a known domain expansion.",
+      "image": "../images/wizzards/Panda_-_Anime.jpg"
+    },
+    {
+      "id": "4f00fca0-777c-4c68-85eb-f921ae87c719",
+      "name": "Shoko Ieiri",
+      "description": "A doctor at Tokyo Metropolitan Magic Technical College. Shoko is known for her medical skills and her ability to use cursed energy techniques.",
+      "abilities": [
+        "Medical skills",
+        "Cursed energy techniques",
+        "Enhanced endurance"
+      ],
+      "domainExpansion": "Shoko does not have a known domain expansion.",
+      "image": "../images/wizzards/Shoko_Ieiri_-_Anime.jpg"
+    },
+    {
+      "id": "b562402b-b128-42ae-86ad-d34ead18ecc9",
+      "name": "Suguru Geto",
+      "description": "A former special grade sorcerer and the main antagonist of the series. Suguru is known for his ability to use cursed energy techniques and his desire to create a world without non-sorcerers.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Strategic planning",
+        "Enhanced endurance"
+      ],
+      "domainExpansion": "Suguru does not have a known domain expansion.",
+      "image": "../images/wizzards/Suguru_Geto_-_Anime.jpg"
+    },
+    {
+      "id": "c6c9d80e-d775-404c-9e2d-df0333559d14",
+      "name": "Takuma Ino",
+      "description": "A second-year student at Kyoto Metropolitan Magic Technical College. Takuma is known for his ability to use cursed energy techniques and his supportive role in battles.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Supportive abilities",
+        "Enhanced agility"
+      ],
+      "domainExpansion": "Takuma does not have a known domain expansion.",
+      "image": "../images/wizzards/Takuma_Ino_-_Anime.jpg"
+    },
+    {
+      "id": "1fb4cbd1-0ccf-4bbb-af63-3bb5ed998d4a",
+      "name": "Toge Inumaki",
+      "description": "A second-year student at Tokyo Metropolitan Magic Technical College. Toge is known for his ability to use cursed energy techniques and his calm demeanor.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Enhanced endurance",
+        "Supportive abilities"
+      ],
+      "domainExpansion": "Toge does not have a known domain expansion.",
+      "image": "../images/wizzards/Toge_Inumaki_-_Anime.jpg"
+    },
+    {
+      "id": "4b3fd5c3-2e11-4034-9f8d-397c318e3739",
+      "name": "Utahime Iori",
+      "description": "A teacher at Tokyo Metropolitan Magic Technical College. Utahime is known for her ability to use cursed energy techniques and her supportive role in battles.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Supportive abilities",
+        "Enhanced agility"
+      ],
+      "domainExpansion": "Utahime does not have a known domain expansion.",
+      "image": "../images/wizzards/Utahime_Iori_-_Anime.jpg"
+    },
+    {
+      "id": "37fbf7ba-d942-4e82-9677-ab25d62299b9",
+      "name": "Yoshinobu Gakuganji",
+      "description": "A special grade sorcerer and the head of the Gakuganji family. Yoshinobu is known for his ability to use cursed energy techniques and his leadership skills.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Leadership skills",
+        "Enhanced endurance"
+      ],
+      "domainExpansion": "Yoshinobu does not have a known domain expansion.",
+      "image": "../images/wizzards/Yoshinobu_Gakuganji_-_Anime.jpg"
+    },
+    {
+      "id": "e874d235-a75c-42cd-961c-19f7b2eb5b4a",
+      "name": "Yuki Tsukumo",
+      "description": "A second-year student at Kyoto Metropolitan Magic Technical College. Yuki is known for her ability to use cursed energy techniques and her supportive role in battles.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Supportive abilities",
+        "Enhanced agility"
+      ],
+      "domainExpansion": "Yuki does not have a known domain expansion.",
+      "image": "../images/wizzards/Yuki_Tsukumo_-_Anime.jpg"
+    },
+    {
+      "id": "afee1a44-e89d-45cb-bd6e-04a6fbb0193e",
+      "name": "Yuta Okkotsu",
+      "description": "A special grade sorcerer and a student at Tokyo Metropolitan Magic Technical College. Yuta is known for his ability to use cursed energy techniques and his desire to protect his friends.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Enhanced endurance",
+        "Supportive abilities"
+      ],
+      "domainExpansion": "Yuta does not have a known domain expansion.",
+      "image": "../images/wizzards/YutaOkkotsu-Anime.jpg"
+    }
+  ],
+  "curses": [
+    {
+      "id": "8e305979-4096-485e-8f12-c2b51a8cac11",
+      "name": "Sukuna",
+      "description": "The King of Curses, who resides within Yuji Itadori. Sukuna is extremely powerful and dangerous, known for his ability to manipulate cursed energy and his desire to destroy humanity.",
+      "abilities": [
+        "Cursed energy manipulation",
+        "Cursed techniques",
+        "Rapid regeneration"
+      ],
+      "domainExpansion": "Malevolent Shrine",
+      "image": "../images/curses/Sukuna_-_Anime.jpg"
+    },
+    {
+      "id": "97f688e1-aa3c-43ec-9cd2-5781a0212052",
+      "name": "Mahito",
+      "description": "A special grade curse that can manipulate human souls. Mahito is one of the main antagonists and is known for his ability to transform humans into curses.",
+      "abilities": [
+        "Soul manipulation",
+        "Human-to-curse transformation",
+        "Rapid regeneration"
+      ],
+      "domainExpansion": "Self-Embodiment of Perfection",
+      "image": "../images/curses/Mahito_-_Anime.jpg"
+    },
+    {
+      "id": "75f72695-2acc-408d-b8a6-9617966215e2",
+      "name": "Jogo",
+      "description": "A special grade curse that can control fire and lava. Jogo is one of the antagonists and is known for his ability to create fire domains and his desire to destroy humanity.",
+      "abilities": [
+        "Fire and lava control",
+        "Fire domain creation",
+        "Extreme heat resistance"
+      ],
+      "domainExpansion": "Coffin of the Iron Mountain",
+      "image": "../images/curses/Jogo-Anime.jpg"
+    },
+    {
+      "id": "44c7649d-7dc1-4278-8539-3cfff520dfb1",
+      "name": "Hanami",
+      "description": "A special grade curse that can control plants and nature. Hanami is one of the antagonists and is known for his ability to manipulate the natural environment and his desire to protect nature.",
+      "abilities": [
+        "Plant and nature control",
+        "Natural environment manipulation",
+        "Rapid regeneration"
+      ],
+      "domainExpansion": "Green Vault of Plenty",
+      "image": "../images/curses/Hanami-Anime.jpg"
+    },
+    {
+      "id": "1ab89e89-e726-41e8-b230-61827a0f0776",
+      "name": "Choso",
+      "description": "A special grade curse that can manipulate blood. Choso is one of the antagonists and is known for his ability to control blood and his desire to fight strong opponents.",
+      "abilities": [
+        "Blood manipulation",
+        "Enhanced physical abilities",
+        "Rapid regeneration"
+      ],
+      "domainExpansion": "Blood Meteorite",
+      "image": "../images/curses/Choso_-_Manga.jpg"
+    },
+    {
+      "id": "394b36ca-ceb4-4a9c-a773-8f4e43aded72",
+      "name": "Dagon",
+      "description": "A special grade curse that can manipulate water. Dagon is one of the antagonists and is known for his ability to control water and his desire to fight strong opponents.",
+      "abilities": [
+        "Water manipulation",
+        "Enhanced physical abilities",
+        "Rapid regeneration"
+      ],
+      "domainExpansion": "Dagon does not have a known domain expansion.",
+      "image": "../images/curses/Dagon-Anime.jpg"
+    },
+    {
+      "id": "851a498f-3a9a-4c91-910c-11f10c4e7b4c",
+      "name": "Esou",
+      "description": "A special grade curse that can manipulate ice. Eso is one of the antagonists and is known for his ability to control ice and his desire to fight strong opponents.",
+      "abilities": [
+        "Ice manipulation",
+        "Enhanced physical abilities",
+        "Rapid regeneration"
+      ],
+      "domainExpansion": "Esou does not have a known domain expansion.",
+      "image": "../images/curses/Esou_-_Anime.jpg"
+    },
+    {
+      "id": "161d745a-681a-4742-af07-12d2929543f6",
+      "name": "Kechizu",
+      "description": "A special grade curse that can manipulate shadows. Kechizu is one of the antagonists and is known for his ability to control shadows and his desire to fight strong opponents.",
+      "abilities": [
+        "Shadow manipulation",
+        "Enhanced physical abilities",
+        "Rapid regeneration"
+      ],
+      "domainExpansion": "Kechizu does not have a known domain expansion.",
+      "image": "../images/curses/Kechizu_-_Anime.jpg"
+    },
+    {
+      "id": "27b3b698-02ac-445a-9a79-33441e4ef5d0",
+      "name": "Portador de Dedos",
+      "description": "A curse that carries Sukuna's fingers. The Portador de Dedos is known for his ability to use cursed energy techniques and his desire to fight strong opponents.",
+      "abilities": [
+        "Cursed energy techniques",
+        "Enhanced physical abilities",
+        "Rapid regeneration"
+      ],
+      "domainExpansion": "Portador de Dedos does not have a known domain expansion.",
+      "image": "../images/curses/Portador_De_Dedos-Perfil.png"
+    },
+    {
+      "id": "c1fdb32b-566f-4a07-a0d4-259ceb56178a",
+      "name": "Rika Orimoto",
+      "description": "A special grade curse that can manipulate cursed energy. Rika is one of the antagonists and is known for her ability to use cursed energy techniques and her desire to fight strong opponents.",
+      "abilities": [
+        "Cursed energy manipulation",
+        "Enhanced physical abilities",
+        "Rapid regeneration"
+      ],
+      "domainExpansion": "Rika does not have a known domain expansion.",
+      "image": "../images/curses/RikaMaldicion-cap0-4.png"
+    }
+  ]
+}
